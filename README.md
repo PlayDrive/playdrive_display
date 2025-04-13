@@ -1,7 +1,5 @@
 # PlayDrive Display
 
----
-
 ## About
 
 ...

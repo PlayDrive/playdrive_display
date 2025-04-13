@@ -1,0 +1,15 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background: black;
+    color: white;
+    font-family: "BetterVCR", monospace;
+}
+
+@font-face {
+    font-family: "BetterVCR";
+    src: url("assets/fonts/BetterVCR.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}

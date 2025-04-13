@@ -1,0 +1,13 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "playdrive_display",
+  "outputfilename": "playdrive_display",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Bartosz Kąkol",
+    "email": "bartosz.kakol@proton.me"
+  }
+}
